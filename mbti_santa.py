@@ -1,4 +1,4 @@
-'''필요 모듈 사용'''
+'''사용 모듈'''
 import time
 import os
 import platform
