@@ -94,8 +94,9 @@ else: <br>
   <hr>
   
   <strong>while 문을 이용해서 검사 후 다시 처음부터 검사 할 수 있도록 기능 추가</strong>
-  >while 문과 if문을 넣어서 기능 구현
-  '''
+  >while 문과 if문을 넣어서 기능 구현 <br>
+ 
+ '''
   def clear(): <br>
     os_type = platform.system() <br>
     if os_type == 'Windows': <br>
